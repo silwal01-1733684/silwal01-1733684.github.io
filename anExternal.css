@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-size: 12pt;
+    color: #000099;
+    margin-bottom: 5px;
+    text-decoration: underline;
+    float: middle;
+}
+
+table {
+    margin: 5px;
+    width: 290px;
+    border-radius: 25px;
+}
+
+th {
+    padding: 3px;
+    border-radius: 25px;
+}
+
+td {
+    padding-left: 8px;
+    padding-right: 8px;
+    border: 1px solid pink;
+    background-color: gold;
+    float: middle;
+    border-radius: 25px;
+    
+}
+
+#trHeader {
+    text-decoration: underline;
+    color: pink;
+    background-color: #ffffcc;
+    float: middle;
+}
+
+.centerCell {
+    text-align: center;
+}
