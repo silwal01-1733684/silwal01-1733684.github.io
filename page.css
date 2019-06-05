@@ -1,0 +1,47 @@
+body{
+
+}
+
+#Head {
+    width: 1200px; 
+	margin: 10px; 
+	border: solid 8px rgb(192, 73, 73);
+	text-align: left;
+	background-color: rgb(241, 126, 19);
+
+}
+
+h2{
+	color: rgb(116, 182, 190);
+	font-size: 40px;
+	font-family: "Passion One";
+	margin-bottom: 0px;
+
+}
+
+#Middle {
+    width: 1200px; 
+	margin: 10px; 
+	border: solid 8px rgb(116, 15, 15);
+	text-align: left;
+	background-color: rgb(36, 132, 187);
+
+}
+
+#Middle2 {
+    width: 1200px; 
+	margin: 10px; 
+	border: solid 8px rgb(165, 18, 18);
+	text-align: left;
+	background-color: rgb(17, 187, 150);
+
+}
+
+#Foot {
+    width: 1200px; 
+	margin: 10px; 
+	border: solid 8px rgb(158, 22, 22);
+	text-align: left;
+	background-color: rgb(197, 218, 17);
+
+}
